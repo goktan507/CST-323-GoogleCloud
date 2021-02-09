@@ -7,11 +7,11 @@ use App\Model\User;
 class SecurityDAO implements SecurityInterface
 {
 
-    private $servername = "localhost";
+    private $servername = "34.69.38.69";
 
-    private $username = "root";
+    private $username = "goktan507";
 
-    private $password = "root";
+    private $password = "Goktan150150";
 
     private $dbname = "e-storetable";
 
